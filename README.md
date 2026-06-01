@@ -1,7 +1,7 @@
 # Code With Lasa — PHP reCAPTCHA v2
 
 ## Video Tutorial
-Paste YouTube Link Here
+[Click Here](https://youtu.be/9DD5QLEL6c0)
 
 ## Frontend
 ```html
